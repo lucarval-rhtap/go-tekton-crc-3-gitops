@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/lucarval-rhtap/go-tekton-crc-3:088f89144e7932042e4150fb58ec6c873d45b758@sha256:58f547f7de6d9d8b7cca04279b8636d95088539634e4e89a5e8e01ab7d3e425a
+        - image: quay.io/lucarval-rhtap/go-tekton-crc-3:7dd4b6fa533c338a07fb1a12a83b3680af8da677@sha256:a0c5ce73959b49d874a11e23c96fc88adfda83d79812d84cd78151388e600ab6
           name: container-image
