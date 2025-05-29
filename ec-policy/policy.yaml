@@ -7,8 +7,8 @@ sources:
         ignore_rekor: true
         public_key: |
           -----BEGIN PUBLIC KEY-----
-          MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaBHNzJrR7nHoMxvYmlR6w/GXNI+5
-          9Ea0/BfGziA6NNUxHLxTXYe1xTPSNXXTrB8WgmGrCN1qdBKpPkunDA9aEg==
+          MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmmEAGkTpaxrAlANbnpyJ1wbs5JQV
+          ti/3h/d4se/6kAD6cmJo3UAVdwXX6+2DTMpQWTGk2IuXVBfCNsNwE6xnCQ==
           -----END PUBLIC KEY-----
         certificate_identity: ''
         certificate_identity_regexp: ''
